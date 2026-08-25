@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Randino",
+    "description": "Randino Skyrim SE modlist.",
+    "author": "Welfon",
+    "maintainers": [
+      "github/Welfon80MG"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "image": "",
+      "readme": "",
+      "download": "",
+      "machineURL": "randino",
+      "discordURL": "",
+      "websiteURL": ""
+    },
+    "version": "0.1.0"
+  }
+]
