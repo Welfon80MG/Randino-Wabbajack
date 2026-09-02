@@ -1,36 +1,40 @@
 [
   {
     "title": "Randino",
-    "description": "Randino Skyrim SE modlist.",
+    "description": "A Skyrim Special Edition modlist focused on Requiem, Community Shaders, first-person combat, dense environments, grounded visuals, immersion, and extensive new content.",
     "author": "Welfon",
     "maintainers": [
       "github/Welfon80MG"
     ],
     "game": "skyrimspecialedition",
     "official": false,
-    "tags": [],
+    "tags": [
+      "Hardcore",
+      "Survival",
+      "Total Overhaul"
+    ],
     "nsfw": false,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": true,
     "links": {
-      "image": "",
-      "readme": "https://raw.githubusercontent.com/Welfon80MG/Randino-Wabbajack/refs/heads/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Randino.wabbajack_99efe876-4621-45b6-aa0d-316dfc1fa709",
+      "image": "https://raw.githubusercontent.com/Welfon80MG/Randino-Wabbajack/main/Randino.png",
+      "readme": "https://raw.githubusercontent.com/Welfon80MG/Randino-Wabbajack/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Randino.wabbajack_82a38039-dc3a-4c26-a746-ef2e3f10c9e6",
       "machineURL": "randino",
       "discordURL": "",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "RIyToieVdbg=",
-      "Size": 4722734953,
-      "NumberOfArchives": 266,
-      "SizeOfArchives": 56523719997,
-      "NumberOfInstalledFiles": 125726,
-      "SizeOfInstalledFiles": 82857415944,
-      "TotalSize": 139381135941
+      "Hash": "WzpcmhxmqTk=",
+      "Size": 4724770157,
+      "NumberOfArchives": 284,
+      "SizeOfArchives": 57482099016,
+      "NumberOfInstalledFiles": 126373,
+      "SizeOfInstalledFiles": 83768642646,
+      "TotalSize": 141250741662
     },
-    "version": "0.1.0"
+    "version": "0.2.0"
   }
 ]
